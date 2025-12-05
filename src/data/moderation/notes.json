@@ -1,0 +1,40 @@
+{
+  "guilds": {
+    "1408559813956341941": {
+      "1406405226881355979": {
+        "notes": [
+          {
+            "id": "N1761415496270-GCQFQ",
+            "content": "aaaaa",
+            "category": "general",
+            "moderator": "1406405226881355979",
+            "moderatorTag": "mau_rdf",
+            "timestamp": "2025-10-25T18:04:56.270Z"
+          },
+          {
+            "id": "N1761454100746-Y3A62",
+            "content": "hola",
+            "category": "general",
+            "moderator": "1406405226881355979",
+            "moderatorTag": "mau_rdf",
+            "timestamp": "2025-10-26T04:48:20.746Z"
+          }
+        ],
+        "userTag": "mau_rdf"
+      },
+      "962245493906346044": {
+        "notes": [
+          {
+            "id": "N1761454193673-2ZBM0",
+            "content": "ola",
+            "category": "general",
+            "moderator": "1406405226881355979",
+            "moderatorTag": "mau_rdf",
+            "timestamp": "2025-10-26T04:49:53.673Z"
+          }
+        ],
+        "userTag": "kozai01"
+      }
+    }
+  }
+}

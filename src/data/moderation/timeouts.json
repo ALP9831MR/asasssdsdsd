@@ -1,0 +1,21 @@
+{
+  "guilds": {
+    "1408559813956341941": {
+      "962245493906346044": {
+        "history": [
+          {
+            "id": "T1761454225817",
+            "reason": "prueba",
+            "duration": "5m",
+            "durationMs": 300000,
+            "moderator": "1406405226881355979",
+            "moderatorTag": "mau_rdf",
+            "timestamp": "2025-10-26T04:50:25.817Z",
+            "endsAt": "2025-10-26T04:55:25.817Z",
+            "active": true
+          }
+        ]
+      }
+    }
+  }
+}

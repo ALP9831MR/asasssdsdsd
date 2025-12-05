@@ -1,0 +1,245 @@
+{
+  "users": {
+    "1406405226881355979": {
+      "totalClicks": 3,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1357459475396825198": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "756545162951524393": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-23",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1253527420313538564": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1229147378859118664": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1309772308809781290": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-23",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "873627330843656202": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1259737336632049748": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-23",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "962245493906346044": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1380359912583991457": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-23",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "946907074888073226": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-23",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "925815501848989786": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "885240398845452288": {
+      "totalClicks": 2,
+      "currentStreak": 2,
+      "maxStreak": 2,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1020790228300070912": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-24",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1183861101956436148": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-24",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1389527787400069202": {
+      "totalClicks": 2,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-26",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1339981542151421954": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-24",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1414736264296534130": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-24",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1389735215278325891": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1349564488885604443": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1390677429508374608": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    },
+    "1332364686804516866": {
+      "totalClicks": 1,
+      "currentStreak": 1,
+      "maxStreak": 1,
+      "lastClick": "2025-10-25",
+      "revivedStreak": false,
+      "lastRevive": null
+    }
+  },
+  "todayClicks": [
+    "1389527787400069202"
+  ],
+  "todayUserDetails": [
+    {
+      "id": "1389527787400069202",
+      "username": "jared01478"
+    }
+  ],
+  "lastReset": "2025-10-26",
+  "weeklyStats": {
+    "2025-W42": {
+      "1406405226881355979": 1
+    },
+    "2025-W43": {
+      "1357459475396825198": 2,
+      "756545162951524393": 1,
+      "1253527420313538564": 2,
+      "1229147378859118664": 2,
+      "1309772308809781290": 1,
+      "873627330843656202": 2,
+      "1259737336632049748": 1,
+      "962245493906346044": 2,
+      "1380359912583991457": 1,
+      "946907074888073226": 1,
+      "1406405226881355979": 2,
+      "925815501848989786": 2,
+      "885240398845452288": 2,
+      "1020790228300070912": 1,
+      "1183861101956436148": 1,
+      "1389527787400069202": 2,
+      "1339981542151421954": 1,
+      "1414736264296534130": 1,
+      "1389735215278325891": 1,
+      "1349564488885604443": 1,
+      "1390677429508374608": 1,
+      "1332364686804516866": 1
+    }
+  },
+  "monthlyStats": {
+    "2025-10": {
+      "1406405226881355979": 3,
+      "1357459475396825198": 2,
+      "756545162951524393": 1,
+      "1253527420313538564": 2,
+      "1229147378859118664": 2,
+      "1309772308809781290": 1,
+      "873627330843656202": 2,
+      "1259737336632049748": 1,
+      "962245493906346044": 2,
+      "1380359912583991457": 1,
+      "946907074888073226": 1,
+      "925815501848989786": 2,
+      "885240398845452288": 2,
+      "1020790228300070912": 1,
+      "1183861101956436148": 1,
+      "1389527787400069202": 2,
+      "1339981542151421954": 1,
+      "1414736264296534130": 1,
+      "1389735215278325891": 1,
+      "1349564488885604443": 1,
+      "1390677429508374608": 1,
+      "1332364686804516866": 1
+    }
+  }
+}
