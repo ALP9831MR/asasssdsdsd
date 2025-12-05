@@ -1,0 +1,48 @@
+{
+  "clientSettings": {
+    "intents": [
+      "Guilds",
+      "GuildMembers",
+      "GuildMessages",
+      "MessageContent",
+      "GuildPresences",
+      "GuildVoiceStates",
+      "GuildMessageReactions",
+      "DirectMessages"
+    ]
+  },
+  "embedColors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "error": "#ED4245",
+    "warning": "#FEE75C",
+    "info": "#5865F2"
+  },
+  "systems": {
+    "welcome": {
+      "enabled": true,
+      "channelId": "1357052617704083556",
+      "message": "¡Bienvenido/a {user} a {server}! Eres el miembro #{memberCount}."
+    },
+    "tickets": {
+      "enabled": true,
+      "categoryId": "",
+      "supportRoleId": "",
+      "logChannelId": "",
+      "categories": [
+        { "id": "general", "emoji": "❓", "label": "General", "description": "Consultas generales y ayuda" },
+        { "id": "soporte", "emoji": "🛠️", "label": "Soporte Técnico", "description": "Problemas técnicos y bugs" },
+        { "id": "comprar", "emoji": "🛒", "label": "Comprar", "description": "Compra de Coins/Vip/Elementos/Vehiculos Vip/Bienes Vip" }
+      ]
+    },
+    "autoroles": {
+      "enabled": true,
+      "roles": []
+    },
+    "moderation": {
+      "logChannelId": "",
+      "moderationRoleId": ""
+    }
+  },
+  "developers": ["990398386102468649"]
+}
